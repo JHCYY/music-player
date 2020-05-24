@@ -1,0 +1,30 @@
+[
+    {
+        "name":"グランドエスケープ",
+        "singer":"三浦透子",
+        "src":"/music/test1.mp3",
+        "pic":"../img/img1.jpg",
+        "isLike":true
+    },
+    {
+        "name":"画",
+        "singer":"邓紫棋",
+        "src":"/music/test1.mp3",
+        "pic":"../img/img2.jpg",
+        "isLike":false
+    },
+    {
+        "name":"lemon",
+        "singer":"米津玄师",
+        "src":"/music/test2.mp3",
+        "pic":"../img/img3.png",
+        "isLike":false
+    },
+    {
+        "name":"难念的经",
+        "singer":"周华健",
+        "src":"/music/test2.mp3",
+        "pic":"../img/img4.jpg",
+        "isLike":true
+    }
+]
